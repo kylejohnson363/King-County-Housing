@@ -15,7 +15,7 @@ The purpose of this project is to create a regression model to predict a home sa
 - Interpret the results
 
 ### Observations
-![map](https://drive.google.com/open?id=10KAL_WkSxvnMqGgbkaz7jtnKrVt7PItq)
+![map](https://github.com/kylejohnson363/updated-images/blob/master/King%20County%20Map.png?raw=true)
 This image shows a blue dot for all home sales in King County and other colored dots for homw sales in the five most expensive zipcodes. The purple section contains downtown Seattle.
 
 ### Findings
