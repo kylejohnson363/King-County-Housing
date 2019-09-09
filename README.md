@@ -14,6 +14,10 @@ The purpose of this project is to create a regression model to predict a home sa
 - Model the data
 - Interpret the results
 
+### Observations
+![](https://drive.google.com/open?id=10KAL_WkSxvnMqGgbkaz7jtnKrVt7PItq)
+This image shows a blue dot for all home sales in King County and other colored dots for homw sales in the five most expensive zipcodes. The purple section contains downtown Seattle.
+
 ### Findings
 - The final model created achieved an r-squared value of .86, meaning it is very useful in modeling home sale prices.
 - There is a premium of about $90,000 for being double the size of the average home in the neighborhood.
