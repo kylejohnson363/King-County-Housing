@@ -26,5 +26,6 @@ This image shows a blue dot for all home sales in King County and other colored 
 
 ### Further Exploration
 - Obtain home sale data from more years.
+- Include economic data such as local, regional and national GDP, unemployment, business starts tax receipts etc.
 - Obtain different types of data such as proximity to parks, shopping centers, transportation routes, school quality and crime statistics.
 - Employ more advanced modeling techniques such as neural networks that can incorporate pictures of homes. 
