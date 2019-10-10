@@ -9,9 +9,13 @@ The purpose of this project is to create a regression model to predict a home sa
 
 ### Process Overview
 1- Obtain the data from the database
+
 2- Preprocess the data
+
 3- Explore the data
+
 4- Model the data
+
 5- Interpret the results
 
 ### Observations
