@@ -8,11 +8,11 @@ Blog post:  https://kylejohnson363.github.io/finding_value_in_overlookable_data
 The purpose of this project is to create a regression model to predict a home sale value in King County Washington and use this model to answer questions about the housing market.
 
 ### Process Overview
-- Obtain the data from the database
-- Preprocess the data
-- Explore the data
-- Model the data
-- Interpret the results
+1- Obtain the data from the database
+2- Preprocess the data
+3- Explore the data
+4- Model the data
+5- Interpret the results
 
 ### Observations
 ![map](https://github.com/kylejohnson363/updated-images/blob/master/King%20County%20Map.png?raw=true)
